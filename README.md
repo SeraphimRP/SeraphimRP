@@ -47,7 +47,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HesychiaDiscord/canon_law?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/SeraphimRP/bingo"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><a href="https://github.com/SeraphimRP/bingo"><b>bingo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SeraphimRP/bingo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SeraphimRP/bingo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SeraphimRP/bingo?style=flat-square&labelColor=343b41"/></td>
@@ -68,6 +68,6 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, August 3, 3:12 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, August 3, 3:13 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/seraphimrp/seraphimrp/workflows/README%20build/badge.svg" /></p>
 
