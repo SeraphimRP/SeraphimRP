@@ -37,7 +37,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/BibleBot/BibleBot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/BibleBot/BibleBot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/BibleBot/BibleBot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tBibleBot/BibleBot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BibleBot/BibleBot?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/HesychiaDiscord/canon_law"><b>canon_law</b></a></td>
