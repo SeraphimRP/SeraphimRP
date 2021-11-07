@@ -62,12 +62,12 @@
 </ul>
 <h3>Meet the Orthodox Church!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/orthodoxyforyou/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @orthodoxyforyou!</a><br/>Currently, the weather is: <b> 51 °F, <i>few clouds</i></b></br>Today, the sun rises at <b>11&#x2F;6&#x2F;2021, 8:10:52 AM</b> and sets at <b>11&#x2F;6&#x2F;2021, 6:15:49 PM</b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/orthodoxyforyou/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @orthodoxyforyou!</a><br/>Currently, the weather is: <b> 45 °F, <i>clear sky</i></b></br>Today, the sun rises at <b>11&#x2F;6&#x2F;2021, 8:10:52 AM</b> and sets at <b>11&#x2F;6&#x2F;2021, 6:15:49 PM</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/seraphimrp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/seraphimrp" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/seraphimrp" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, November 6, 2:21 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Saturday, November 6, 9:03 PM EDT<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/seraphimrp/seraphimrp/workflows/README%20build/badge.svg" /></p>
 
