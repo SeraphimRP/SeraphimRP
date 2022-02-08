@@ -20,7 +20,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=port%20huron&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=imperial`
+    `https://api.openweathermap.org/data/2.5/weather?q=fenton%2C%20michigan&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=imperial`
   )
     .then(r => r.json())
     .then(r => {
