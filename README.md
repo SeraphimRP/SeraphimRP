@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30"/> Howdy.</h1>
 
 
-<p>Welcome to my profile! </br> I'm Seraphim R.P., a self-taught software engineer from <img src="https://image.flaticon.com/icons/png/512/197/197484.png" width="13"/> <b>Port Huron, Michigan</b>. </p>
+<p>Welcome to my profile! </br> I'm Seraphim R.P., a self-taught software engineer from <img src="https://image.flaticon.com/icons/png/512/197/197484.png" width="13"/> <b>Fenton, Michigan</b>. </p>
 <h3>Tools of the trade</h3>
 <p>
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00aed8?style=flat-square&logo=go&logoColor=white" />
@@ -68,6 +68,6 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, February 7, 11:20 PM EST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Monday, February 7, 11:22 PM EST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/seraphimrp/seraphimrp/workflows/README%20build/badge.svg" /></p>
 
