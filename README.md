@@ -16,4 +16,13 @@ I'm **Rdr. Seraphim Pardee**, an ☦️ Orthodox Christian reader and 👨🏻�
 ### Latest blog entries
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [To My Daughter, Mary - Entry 1](https://srp.life/to-my-daughter-mary-entry-1/) on Thursday, March 20, 2025   
+ *On the occasion of your first birthday.*
+- [Something of a revitalization.](https://srp.life/something-of-a-revitalization/) on Monday, March 10, 2025   
+ *Friendship with Substack ended, now Ghost is my best friend.*
+- [Trust For The Distrustful](https://srp.life/trust-for-the-distrustful/) on Friday, December 13, 2024   
+ *&quot;For we have not a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.&quot; - Hebrews 4:15 &lpar;RSV&rpar;*
+- [Reflection: Age &amp; Legacy &lpar;pt. 3&rpar;](https://srp.life/reflection-age-and-legacy-pt-3/) on Thursday, November 28, 2024   
+ *&quot;Indeed all was vanity and grasping for the wind. There was no profit under the sun.&quot; - Ecclesiastes 2:11b*
+- [Reflection: Age &amp; Legacy &lpar;pt. 2&rpar;](https://srp.life/reflection-age-and-legacy-pt-2/) on Monday, November 25, 2024   
+ *&quot;Better to go to the house of mourning than to go to the house of feasting, for that is the end of all men; and the living will take it to heart.&quot; - Ecclesiastes 7:2*<!-- BLOG-POST-LIST:END -->
