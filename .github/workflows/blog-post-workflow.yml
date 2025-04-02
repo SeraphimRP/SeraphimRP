@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://srp.life/feed"
-          template: "- $date &middot; [$title]($url)$newline"
+          template: "$newline- $date &middot; [$title]($url)"
           date_format: "dddd, mmmm dd, yyyy"
