@@ -26,3 +26,7 @@ I'm **Rdr. Seraphim Pardee**, an ☦️ Orthodox Christian reader and 👨🏻�
  *&quot;Indeed all was vanity and grasping for the wind. There was no profit under the sun.&quot; - Ecclesiastes 2:11b*
 - [Reflection: Age &amp; Legacy &lpar;pt. 2&rpar;](https://srp.life/reflection-age-and-legacy-pt-2/) on Monday, November 25, 2024   
  *&quot;Better to go to the house of mourning than to go to the house of feasting, for that is the end of all men; and the living will take it to heart.&quot; - Ecclesiastes 7:2*<!-- BLOG-POST-LIST:END -->
+
+ ### Recent scrobbles
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=xsrp)](https://last.fm/user/xsrp)
